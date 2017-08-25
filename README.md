@@ -1,6 +1,7 @@
 ## Personalized Medicine
 - Multiclass classification based on text data
 - https://www.kaggle.com/c/msk-redefining-cancer-treatment
+- [view jupyter notebook](http://nbviewer.jupyter.org/github/JihongL/Personalized-Medicine/blob/master/Personal_Medicine.ipynb)
 
 ### Dataset
 - The clinical evidence used to classify the genetic mutation
