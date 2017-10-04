@@ -1,7 +1,7 @@
 ## Personalized Medicine
 - Multiclass classification based on text data
 - https://www.kaggle.com/c/msk-redefining-cancer-treatment
-- 53th on Public leaderboard (log loss 0.53427, 27th Sep)
+- 60th of 1386 on Private leaderboard (log loss 2.19722)
 - [view jupyter notebook](http://nbviewer.jupyter.org/github/JihongL/Personalized-Medicine/blob/master/Personal_Medicine.ipynb)
 
 ### Dataset
